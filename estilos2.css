@@ -60,6 +60,8 @@ body {
   width: 80%;
   background: silver;
   word-break: break-all;
+  border-radius: 30px;
+
 
 }
 .navbar {
@@ -484,5 +486,6 @@ body[light-mode="dark"] .content1 {
   width: 80%;
   background: rgb(0, 0, 0);
   word-break: break-all;
+  border-radius: 30px;
 
 }

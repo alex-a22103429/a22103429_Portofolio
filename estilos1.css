@@ -109,6 +109,8 @@ body {
   width: 80%;
   background: silver;
   word-break: break-all;
+  border-radius: 30px;
+
 
 }
 .content2 {
@@ -116,6 +118,8 @@ body {
   padding: 100px;
   width: 80%;
   background: rgb(22, 129, 211);
+  border-radius: 30px;
+
 
 }
 .nav{
