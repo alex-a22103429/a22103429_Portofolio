@@ -1,6 +1,17 @@
 html {
   overflow: hidden;
 }
+.grid-container {
+  width: 100%;
+margin: 0%;
+  display: grid;
+  grid-template-areas:
+    'header header'
+    'menu body'
+    'menu body'
+    'menu footer';
+    grid-template-columns: 1fr 7fr;
+}
 body {
   margin: 0;
   font-size: 26px;
