@@ -21,15 +21,7 @@ window.addEventListener(
     false
 );
 
-/**
- * @preserve Copyright 2011 Syd Lawrence ( www.sydlawrence.com ).
- * Version: 0.2
- *
- * Licensed under MIT and GPLv2.
- *
- * Usage: $('body').videoBG(options);
- *
- */
+
 
 (function( $ ){
 
